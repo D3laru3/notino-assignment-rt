@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notino</string>
+    <!-- Products list - add product to carr action button text. -->
+    <string name="product_list_add_product_to_cart">DO KOŠÍKU</string>
+    <!-- Products list - unable to load products from remote error text. -->
+    <string name="product_list_unable_to_load_products_error_text">Nepodarilo se načíst produkty.</string>
+    <!-- Products list - no products found info text. -->
+    <string name="product_list_empty_list_info">Nenašli sa žiadne produkty.</string>
+</resources>
